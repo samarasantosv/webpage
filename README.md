@@ -1,3 +1,3 @@
-# webpage
+# Web page
 
-<img src="screenshoot.png" alt="Web Screenshot">
+<img src="./src/screenshoot.png" alt="Web Screenshot">
